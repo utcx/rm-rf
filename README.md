@@ -11,7 +11,7 @@ The code I wrote is:
 
 I hope you will never try this way to delete things!!!😂😂😂
 
-Beware of the spaces before and after the `=` (equal sign), when executing the script, you will get an alert in the terminal:
+Beware of the spaces before and after the ` = ` (equal sign), when executing the script, you will get an alert in the terminal:
 
     $ -bash: temp: command not found
 
