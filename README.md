@@ -17,7 +17,7 @@ Beware of the spaces before and after the ` = ` (equal sign), when executing the
 
 And then you will find EVERYTHING inside the current path are just GONE!!! GONE!!! GONE!!!😱😱😱
 
-The cause is that the `"temp"` hasn't been assigned the `"temp"` as it supposes to be, there is even not `$temp` will be created/exist. And the script won't stop and continue to execute `rm -rf ./$temp;` as `rm -rf ./` since the `$temp` is EMPTY!!!🙈🙈🙈
+The cause is that the `"temp"` hasn't been assigned the `"temp"` as it supposes to be, there is even no `$temp` will be created/exist. And the script won't stop and continue to execute `rm -rf ./$temp;` as `rm -rf ./` since the `$temp` is EMPTY!!!🙈🙈🙈
 
 How fortunately I hadn't written it as `rm -rf /$temp;` otherwise you might guess what would happen!!!💀💀💀
 
